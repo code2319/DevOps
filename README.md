@@ -12,10 +12,13 @@ https://github.com/hysnsec
 https://github.com/6mile/DevSecOps-Playbook  
 https://www.reddit.com/r/devops/comments/aqc8cj/interested_in_getting_into_devops_start_here/  
 https://learningdevops.makvaz.com/tasks
+https://blog.escape.tech/the-ultimate-devsecops-checklist/  
+https://ishaqmohammed.me/posts/application-security-knowledgebase/  
 
 ### Books
 https://www.amazon.com/dp/1942788002  
 https://stribny.gumroad.com/l/moderncommandline  
+https://www.oreilly.com/library/view/learning-devsecops/9781098106935/  
 
 ### SRE books (Site reliability engineering)
 https://sre.google/books/
