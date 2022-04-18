@@ -7,7 +7,6 @@ https://www.practical-devsecops.com/devsecops-university/ | Free
 ### Useful links
 https://github.com/MichaelCade/90DaysOfDevOps  
 https://github.com/Artemmkin/infrastructure-as-code-tutorial/blob/master/README.md  
-https://github.com/upgundecha/howtheysre  
 https://github.com/hysnsec  
 https://github.com/6mile/DevSecOps-Playbook  
 https://www.reddit.com/r/devops/comments/aqc8cj/interested_in_getting_into_devops_start_here/  
@@ -20,8 +19,9 @@ https://www.amazon.com/dp/1942788002
 https://stribny.gumroad.com/l/moderncommandline  
 https://www.oreilly.com/library/view/learning-devsecops/9781098106935/  
 
-### SRE books (Site reliability engineering)
-https://sre.google/books/
+### SRE (Site reliability engineering)
+https://sre.google/books/  
+https://github.com/upgundecha/howtheysre  
 
 ### Chat's
 https://www.reddit.com/r/devops/top/?t=all  
