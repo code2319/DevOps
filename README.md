@@ -2,6 +2,7 @@
 [Введение в Git](https://ru.hexlet.io/courses/intro_to_git) | Free  
 [Структура и Интерпретация Компьютерных Программ на Python](https://ru.hexlet.io/programs/python-sicp) | Paid  
 https://www.practical-devsecops.com/devsecops-university/ | Free  
+[! Certified DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) | Paid  
 
 ### Useful links
 https://github.com/MichaelCade/90DaysOfDevOps  
