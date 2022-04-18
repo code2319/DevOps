@@ -13,11 +13,13 @@ https://www.reddit.com/r/devops/comments/aqc8cj/interested_in_getting_into_devop
 https://learningdevops.makvaz.com/tasks
 https://blog.escape.tech/the-ultimate-devsecops-checklist/  
 https://ishaqmohammed.me/posts/application-security-knowledgebase/  
+https://github.com/kamranahmedse/developer-roadmap  
 
 ### Books
 https://www.amazon.com/dp/1942788002  
 https://stribny.gumroad.com/l/moderncommandline  
 https://www.oreilly.com/library/view/learning-devsecops/9781098106935/  
+https://github.com/nkatre/Free-DevOps-Books-1  
 
 ### SRE (Site reliability engineering)
 https://sre.google/books/  
