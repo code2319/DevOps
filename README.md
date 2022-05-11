@@ -16,6 +16,7 @@ https://ishaqmohammed.me/posts/application-security-knowledgebase/
 https://github.com/kamranahmedse/developer-roadmap  
 
 ### Books
+*!* https://github.com/code2319/Free-DevOps-Books-1  
 https://www.amazon.com/dp/1942788002  
 https://stribny.gumroad.com/l/moderncommandline  
 https://www.oreilly.com/library/view/learning-devsecops/9781098106935/  
