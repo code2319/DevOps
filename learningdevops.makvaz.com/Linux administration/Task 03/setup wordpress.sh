@@ -55,9 +55,10 @@ echo 'downloading wordpress'
 wget https://wordpress.org/latest.tar.gz
 tar -zxf latest.tar.gz
 cp ./wordpress/wp-config-sample.php ./wordpress/wp-config.php
-mv -a ./wordpress/. $path
+cp -a ./wordpress/. $path
 chown -R www-data:www-data $path
 rm latest*
+rm -r wordpress
 echo ''
 
 # configure db and secrets in wp-config.php
