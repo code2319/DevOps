@@ -126,7 +126,7 @@ else
 fi
 
 # installing wordpress
-if ! wp core is-installed --path=$path
+if ! wp core is-installed --url=$ip --path=$path --allow-root
 then
 	echo -e "${LG}installing wordpress${NC}"
 	wp core install --url=$ip --title=wp_core_test --admin_user=admin --admin_email=admin@admin.admin --admin_password=\!2three456. --path=$path --skip-email --allow-root
@@ -135,7 +135,7 @@ else
 fi
 
 # installing wordpress theme
-if wp theme is-installed $wptheme --path=$path
+if wp theme is-active $wptheme --url=$ip --path=$path --allow-root
 then
 	echo -e "${CYAN}theme $wptheme already installed${NC}"
 else
