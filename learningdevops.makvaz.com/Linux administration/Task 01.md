@@ -38,8 +38,8 @@
       > `sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/default.bak`
   
    - if the file does not exist, then it needs to be created, most likely you will also need to create directories: `sites-available`, `sites-enabled`
-  3. Make sure to have symlinks from /etc/nginx/sites-available/* to /etc/nginx/sites-enabled/:
-      > cd /etc/nginx/sites-enabled
+  3. Make sure to have symlinks from `/etc/nginx/sites-available/*` to `/etc/nginx/sites-enabled/`:
+      > cd /etc/nginx/sites-enabled  
       > sudo ln -sf ../sites-available/default .
   
   4. In file `/etc/nginx/sites-available/your_domain.com`:
